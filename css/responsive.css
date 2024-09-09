@@ -27,6 +27,18 @@
         flex-direction: column;
         text-align: center;
     }
+    .call_now2 span {
+        font-size: 17px;
+    }
+    .call_now span {
+        font-size: 25px;
+    }
+    .call_now h3{
+        font-size: 20px;
+    }
+    .primary-button{
+        width: 300px;
+    }
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
@@ -39,6 +51,18 @@
     .text-bg h1{
         font-size: 60px;
         padding-top: 30px;
+    }
+    .call_now2 span {
+        font-size: 26px;
+    }
+    .call_now span {
+        font-size: 25px;
+    }
+    .call_now h3{
+        font-size: 20px;
+    }
+    .primary-button{
+        width: 300px;
     }
 }
 
